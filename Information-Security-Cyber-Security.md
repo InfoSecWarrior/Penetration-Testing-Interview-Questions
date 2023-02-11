@@ -44,23 +44,11 @@ The goal of **Vulnerability assessment** is to identify potential security weakn
 *There are three types of penetration testing* **Black Box Testing, Gray Box Testing,** or **White Box Testing...**
 
 **1. Black Box Testing:-** In this type of testing, the tester has no prior knowledge of the system and simulates an attack from the outside. This simulates a real-world scenario where an attacker does not have any knowledge about the system.
-				
--   **There are two types of black box penetration testing:**
-						
-	-   **External black box testing.**
-
-	-	**Internal black box testing.**
 
 **2. Gray Box Testing:-** In this type of testing, the tester has some prior knowledge of the system, simulating an attack from an insider or someone who has already gained access to the system.
 
 **3. White Box Testing:-** In this type of testing, the tester has complete knowledge of the system and simulates an attack from the inside. This type of testing is used to identify vulnerabilities that are not exposed to external attackers. 
 		
--   **There are two types of white box penetration testing:**
-
-	-   **Dynamic white box testing.**
-							
-	-   **Static white box testing.**
-
 ### 12. Which of the approaches are used in penetration testing?
 
 **1. Reconnaissance(Footprinting):-** Gather information about the target system, such as IP addresses, open ports, and software versions.
