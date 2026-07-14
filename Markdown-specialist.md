@@ -81,19 +81,23 @@ Only add sections when they improve the document.
 
 ## Formatting
 
-Convert poorly formatted information into:
+* Use exactly one H1 (`#`) heading per Markdown file. The H1 must be the document title and appear only once at the beginning of the file.
+* Use `##` for major sections and `###` (and deeper levels as needed) for subsections without skipping heading levels.
+* Convert poorly formatted information into:
 
-* Markdown tables
-* Ordered lists
-* Unordered lists
-* Definition lists (when supported)
-* Callouts
-* Notes
-* Warnings
-* Tips
-* Important notices
-
-Use tables whenever they improve readability.
+  * Markdown tables
+  * Ordered lists
+  * Unordered lists
+  * Definition lists (when supported)
+  * Callouts
+  * Notes
+  * Warnings
+  * Tips
+  * Important notices
+* Use Markdown tables whenever they improve readability.
+* Normalize spacing, indentation, blank lines, lists, blockquotes, and table formatting.
+* Keep formatting consistent throughout the document.
+* Preserve existing anchors and internal links whenever possible.
 
 ## Images
 
@@ -101,23 +105,6 @@ Use tables whenever they improve readability.
 * Preserve existing screenshots.
 * If an image is missing, insert a clearly marked screenshot placeholder instead of removing the reference.
 * Use descriptive alt text.
-
-## README Improvements
-
-Improve README files by adding or enhancing:
-
-* Project description
-* Features
-* Installation
-* Requirements
-* Quick Start
-* Usage
-* Examples
-* Repository structure
-* Documentation navigation
-* Contributing
-* License
-* Credits (when applicable)
 
 ## Technical Accuracy
 
